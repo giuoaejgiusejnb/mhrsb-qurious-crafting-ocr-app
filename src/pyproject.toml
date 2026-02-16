@@ -1,0 +1,15 @@
+[project]
+name = "flet-app-mhrsb-ocr"
+version = "0.1.0"
+description = "Flet application for OCR with skill recognition"
+readme = "README.md"
+requires-python = ">=3.8"
+authors = [
+    {name = "Your Name", email = "your.email@example.com"}
+]
+dependencies = [
+    "flet>=0.20.0"
+]
+
+[tool.flet]
+app_name = "MHRSB-OCR"
