@@ -1,0 +1,1 @@
+# mhrsb-qurious-crafting-ocr-app
